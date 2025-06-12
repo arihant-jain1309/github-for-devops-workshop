@@ -1,0 +1,10 @@
+dir 
+Get ChildItem -Force
+git status
+git --version 
+git add filename
+git add .
+git init
+git commit -m filename
+git rm -chached <filename>
+git restore
